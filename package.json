@@ -1,0 +1,16 @@
+{
+  "name": "tabgamers",
+  "version": "1.0.0",
+  "description": "um projeto para criar uma sistema do zero para facilitar a troca de comunicação entre todos os jogadores e jogadoras na internet",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
